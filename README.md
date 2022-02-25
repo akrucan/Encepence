@@ -1,3 +1,3 @@
 # Encepence
-Board app in development
+Board app in development <br>
 ![Home screen](Home.png)
