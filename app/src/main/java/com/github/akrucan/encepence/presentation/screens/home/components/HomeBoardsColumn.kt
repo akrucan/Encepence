@@ -13,7 +13,6 @@ import androidx.compose.material.icons.filled.Delete
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.room.Delete
 import com.github.akrucan.encepence.data.entity.Board
 
 @Composable

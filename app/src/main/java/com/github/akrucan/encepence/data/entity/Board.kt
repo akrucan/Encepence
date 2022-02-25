@@ -8,5 +8,5 @@ data class Board(
 
     @PrimaryKey(autoGenerate = true)
     val id: Long = 0L,
-    val name: String,
+    val name: String
 )
