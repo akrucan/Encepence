@@ -1,3 +1,3 @@
 # Encepence
 Board app in development
-![Home screen](home.png)
+![Home screen](Home.png)
